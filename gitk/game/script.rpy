@@ -5,7 +5,7 @@
 
 define e = Character("Enthony")
 
-## Pessoas são a parte ruim de tudo que existe, sem serem humanos tudo seria melhor mas tambem seria tudo ruim.
+## Pessoas são a parte ruim de tudo que existe, sem serem humanos tudo seria melhor mas, tambem seria tudo ruim.
 ## Apenas algumas coisas que trazem felizidade e coisas boas. Então aproveita sua vida de merda, se voce ta feliz, bom... que se foda
 
 
@@ -23,7 +23,7 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show eileen happy
+    
 
     # These display lines of dialogue.
 
